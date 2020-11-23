@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-	tutorial.Tut01Time()
+	//tutorial.Tut01Time()
+	tutorial.Tut02Chan()
 }
